@@ -3,6 +3,8 @@
 Created on Fri Oct  2 23:32:55 2020
 
 @author: Umut Atakul
+
+e-mail: atakulumut@gmail.com
 """
 # Problem 1 (Multiples of 3 and 5)
 
