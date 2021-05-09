@@ -4,6 +4,9 @@ Created on Sun Feb 21 20:40:26 2021
 
 @author: Umut Atakul
 
+e-mail: atakulumut@gmail.com
+
+
 """
 
 #Problem 2 (Even Fibonacci numbers)
